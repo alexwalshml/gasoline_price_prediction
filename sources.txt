@@ -1,0 +1,10 @@
+data sources
+
+wti price: https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=RWTC&f=W
+brent price: https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=RBRTE&f=W
+opec basket price: https://www.opec.org/opec_web/en/data_graphs/40.htm
+US gasoline price: https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=pet&s=emm_epm0_pte_nus_dpg&f=w
+inflation: https://data.bls.gov/timeseries/CUUR0000SA0L1E?output_view=pct_12mths
+opec members: https://www.opec.org/opec_web/en/about_us/25.htm
+brent/wti source countries: https://corporatefinanceinstitute.com/resources/commodities/north-sea-brent-crude/
+proved oil reserves: https://ourworldindata.org/grapher/oil-proved-reserves?country=~OWID_WRL
